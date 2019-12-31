@@ -8,5 +8,6 @@ public class MainClass01 {
 		System.out.println("Winnie Baek");
 		Car car1=new Car();
 		car1.drive();
+		System.out.println("Happy New Year");
 	}
 }
