@@ -14,6 +14,7 @@ public class MainClass01 {
 		
 		Phone p1=new Phone();
 		p1.call();
-
+		p1.takeAPicture();
+		
 	}
 }
